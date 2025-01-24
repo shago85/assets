@@ -1,1 +1,11 @@
+{
+  "name": "Название вашего токена",
+  "symbol": "Символ токена",
+  "decimals": 18,
+  "description": "Краткое описание токена",
+  "website": "https://ваш-сайт.com",
+  "explorer": "https://bscscan.com/token/0x6cbbd2ed61e55e67eedfe4982022f2465d098dac",
+  "status": "active",
+  "id": "0x6cbbd2ed61e55e67eedfe4982022f2465d098dac"
+}
 
