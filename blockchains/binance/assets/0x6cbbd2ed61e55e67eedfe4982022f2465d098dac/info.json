@@ -1,9 +1,9 @@
 {
-  "name": "Название вашего токена",
-  "symbol": "Символ токена",
+  "name": "Bro",
+  "symbol": "BRO",
   "decimals": 18,
-  "description": "Краткое описание токена",
-  "website": "https://ваш-сайт.com",
+  "description": "Bro (BRO) is a token created for decentralized applications and community-driven projects.",
+  "website": "https://placeholder.com"
   "explorer": "https://bscscan.com/token/0x6cbbd2ed61e55e67eedfe4982022f2465d098dac",
   "status": "active",
   "id": "0x6cbbd2ed61e55e67eedfe4982022f2465d098dac"
